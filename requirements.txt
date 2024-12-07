@@ -1,0 +1,6 @@
+
+bip-utils
+web3
+rich
+requests
+pyfiglet
